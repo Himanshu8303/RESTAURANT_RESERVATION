@@ -5,9 +5,9 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="banner">
-          <div className="left">HIMANSHU</div>
+          <div className="left">FOOD ZONE</div>
           <div className="right">
-            <p>Z6 Gulshan-e-Maymar, Karachi</p>
+            <p>Noida, INDIA</p>
             <p>Open: 05:00 PM - 12:00 AM</p>
           </div>
         </div>
